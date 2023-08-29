@@ -5,10 +5,10 @@ In this repository, you will discover how [Streamlit](https://streamlit.io/), a 
 
 * [app.py](https://github.com/easonlai/chat_with_pdf_streamlit/blob/main/app.py) <-- Sample using FAISS (Facebook AI Similarity Search) as a Vector Database to store the embedding vectors and perform similar searches.
 
-Architecture
+**Architecture**
 ![alt text](https://github.com/easonlai/chat_with_pdf_streamlit/blob/main/git-images/git-image-1.png)
 
-To run this Streamlit web app
+**To run this Streamlit web app**
 ```
 streamlit run app.py
 ```
